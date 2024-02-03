@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "0",
+      "name": "Name",
+      "designation": "manager",
+      "salary": "0"
+    },
+    {
+      "id": "1",
+      "name": "Name",
+      "designation": "manager",
+      "salary": "0"
+    },
+    {
+      "id": "a544",
+      "name": "111",
+      "designation": "manager",
+      "salary": "1111"
+    },
+    {
+      "id": "8e7b",
+      "name": "aaaaa",
+      "designation": "hr",
+      "salary": "1110"
+    }
+  ]
+}
